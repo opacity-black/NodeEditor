@@ -1,0 +1,3 @@
+[submodule "thirdparty/imnodes"]
+	path = thirdparty/imnodes
+	url = git@github.com:YINGHAIDADA/imnodes.git
