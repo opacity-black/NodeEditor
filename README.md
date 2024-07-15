@@ -10,4 +10,14 @@
   <img alt="Views" src="https://komarev.com/ghpvc/?username=NodeEditor&color=22d495&label=Views&style=for-the-badge">
 <p>
 
-NodeEditor
+## 简介
+NodeEditor是一个C++开发的一款多功能自动化流程软件，旨在帮助用户通过可视化界面创建、编辑和管理复杂的自动化流程。该软件将提供强大的节点编辑功能、灵活的流程控制和丰富的集成接口
+
+## 开始
+
+```shell
+git clone --recursive https://github.com/opacity-black/NodeEditor.git
+cd NodeEditor
+git submodule update --init --recursive
+
+```
