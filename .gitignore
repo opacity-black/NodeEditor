@@ -1,0 +1,45 @@
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# Actual VS project files we don't use
+*.sln
+*.vcxproj*
+.idea/
+*.sln
+
+# Visual Studio build outputs
+*.suo
+*.vspscc
+*.vssscc
+*.user
+*.aps
+*.pch
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# C/C++ generated
+*.a
+*.ax
+*.d
+*.dll
+*.lib
+*.lo
+*.o
+*.os
+*.ox
+*.Plo
+*.so
+
+# Binutils tmp linker output of the form "stXXXXXX" where "X" is alphanumeric
+st[A-Za-z0-9][A-Za-z0-9][A-Za-z0-9][A-Za-z0-9][A-Za-z0-9][A-Za-z0-9]
+
+# Python generated
+__pycache__/
+*.pyc
+
+# Documentation
+doc/_build/
