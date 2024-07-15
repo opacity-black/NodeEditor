@@ -1,3 +1,7 @@
 [submodule "thirdparty/imnodes"]
 	path = thirdparty/imnodes
 	url = git@github.com:YINGHAIDADA/imnodes.git
+[submodule "thirdparty/imgui"]
+	path = thirdparty/imgui
+	url = https://github.com/YINGHAIDADA/imgui
+	branch = docking
