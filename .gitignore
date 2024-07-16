@@ -1,13 +1,22 @@
+# Binaries
+**/bin/
+**/bin-int/
+Intermediates/
+**/Binaries/
+
 # Visual Studio Code
 .vscode/
 *.code-workspace
 .history/
 
-# Actual VS project files we don't use
-*.sln
-*.vcxproj*
-.idea/
-*.sln
+# Visual Studio files and folder
+.vscode/
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj**
 
 # Visual Studio build outputs
 *.suo
