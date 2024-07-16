@@ -25,7 +25,7 @@
 
 #include "Log.h"
 
-#include "../debug/Instrumentor.h"
+#include "debug/Instrumentor.h"
 
 #ifdef  NE_PLATFORM_WINDOWS
 	#include <Windows.h>

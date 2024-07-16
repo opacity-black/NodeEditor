@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Core.h"
-#include "Log.h"
+#include "core/Core.h"
+#include "core/Log.h"
 #include <filesystem>
 
 #ifdef NE_ENABLE_ASSERTS
